@@ -1,7 +1,7 @@
 # C-suite-s-sales-presentation and for the sales team
 
 
-Team sales  dashboard https://lookerstudio.google.com/reporting/f9760bb1-ceb4-43ba-b760-6d7b811dffff
+Sales Team  dashboard https://lookerstudio.google.com/reporting/f9760bb1-ceb4-43ba-b760-6d7b811dffff
 
 AND
 
